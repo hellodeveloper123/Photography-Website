@@ -1,1 +1,1 @@
-This is a Photgraphy Website.
+This is a Photography Website.
